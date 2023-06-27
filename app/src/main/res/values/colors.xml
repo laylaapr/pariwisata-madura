@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rose">#F44336</color>
+    <color name="rose_light">#FFCDD2</color>
+    <color name="rose_dark">#D32F2F</color>
+    <color name="ocean">#FFEB3B</color>
+    <color name="ocean_light">#FFF59D</color>
+    <color name="ocean_dark">#F9A825</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSubtitle">#757575</color>
+</resources>

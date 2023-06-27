@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="data_judul" type="id" />
+    <item name="data_desc" type="id" />
+    <item name="data_lokasi" type="id" />
+    <item name="data_jam" type="id" />
+    <item name="data_harga" type="id" />
+    <item name="data_foto" type="id" />
+</resources>

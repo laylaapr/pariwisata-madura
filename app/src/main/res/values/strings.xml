@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PariwisataMadura</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="content_text">Konten</string>
+    <string name="content_specs_jam">jam</string>
+    <string name="content_specs_tiket">Rp 0</string>
+    <string name="specification">Info Lainnya</string>
+    <string name="display">Alamat</string>
+    <string name="jam">Jam</string>
+    <string name="tiket">Tiket</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="city">Madura</string>
+    <string name="lay">Lailatul Badria D.A.A</string>
+    <string name="mail">laylaapr@gmail.com</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="about_me">About Me</string>
+    <string name="image_splashscreen">Image_Splashscreen</string>
+    <string name="profile">Profile</string>
+</resources>
